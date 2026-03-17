@@ -1,6 +1,25 @@
 # 💫 About Me:
 :<br><br>👋 Hi, I’m Shiv<br><br>🔭 I’m currently working on<br>Machine learning projects, sports prediction models, and surviving electrical engineering as a sophomore at NIT Jalandhar. Sometimes the code works. Sometimes I work around it.<br><br>👯 I’m looking to collaborate on<br>ML/DL projects, sports analytics, experimental ideas, and anything that mixes data with real-world impact.<br><br>🤝 I’m looking for help with<br>Transformers, LLMs, and turning “this should work” into “this actually works.”<br><br>🌱 I’m currently learning<br>Transformers, Large Language Models, and reading research papers without panicking halfway through.<br><br>💬 Ask me about<br>Machine Learning, Deep Learning, TensorFlow, PyTorch, Hugging Face, sports prediction models, politics, finance, sports, or why creativity > memorizing equations.<br><br>🧠 Skills & Tools<br><br>Machine Learning & Deep Learning<br><br>TensorFlow | PyTorch | Hugging Face<br><br>Sports Analytics & Prediction Models<br><br>DSA (C++) — currently grinding, respectfully suffering<br><br>Some design work because engineers can be creative<br><br>⚡ Fun fact<br>I can both sleep for 24 hours straight and stay awake for 24 hours straight.<br>Things engineering teaches you.<br>Things you should not ask me: how to win a damn UNO game.
 
+## 🚀 Featured Work (in progress → production)
+
+🔹 RAG Systems (Hackathon Builds)
+
+* Built end-to-end retrieval pipelines
+* Context-aware Q&A using embeddings
+* Exploring improvements like hybrid search & re-ranking
+
+🔹 Multimodal Projects
+
+* Combined vision + language models
+* Experimented with real-world data use cases
+
+🔹 Next Step
+
+* Converting all projects into production-grade APIs
+* Adding Docker + proper backend systems
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shiv-shankar-singh-0924b832a) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/shiiivv1806) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shhiiivvvvv) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shhiiivvvvv@gmail.com) 
